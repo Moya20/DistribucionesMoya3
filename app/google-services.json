@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825916654528",
+    "firebase_url": "https://distribuciones-moya-a2fdd.firebaseio.com",
+    "project_id": "distribuciones-moya-a2fdd",
+    "storage_bucket": "distribuciones-moya-a2fdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825916654528:android:69091573c6825cc0bdfe25",
+        "android_client_info": {
+          "package_name": "com.example.distribucionesmoya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825916654528-tebf59tubp9m4njvrt50b61gkd5u2t7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3rWXsypvb4G8D-vNTAZM_RkfqTP_EBSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825916654528-tebf59tubp9m4njvrt50b61gkd5u2t7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
